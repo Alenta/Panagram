@@ -1,0 +1,14 @@
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\bin\Debug\net8.0\Panagram.exe
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\bin\Debug\net8.0\Panagram.deps.json
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\bin\Debug\net8.0\Panagram.runtimeconfig.json
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\bin\Debug\net8.0\Panagram.dll
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\bin\Debug\net8.0\Panagram.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\obj\Debug\net8.0\Panagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\obj\Debug\net8.0\Panagram.AssemblyInfoInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\obj\Debug\net8.0\Panagram.AssemblyInfo.cs
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\obj\Debug\net8.0\Panagram.csproj.CoreCompileInputs.cache
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\obj\Debug\net8.0\Panagram.dll
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\obj\Debug\net8.0\refint\Panagram.dll
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\obj\Debug\net8.0\Panagram.pdb
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\obj\Debug\net8.0\Panagram.genruntimeconfig.cache
+C:\Users\marti\OneDrive\Skrivebord\Kodehode\C#\CodeWars\Random Tasks\Panagram\obj\Debug\net8.0\ref\Panagram.dll
